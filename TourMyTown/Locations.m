@@ -9,6 +9,7 @@
 #import "Locations.h"
 #import "Location.h"
 
+/*これHerokuでつくったよ*/
 static NSString* const kBaseURL = @"http://diino-simple-is-best.herokuapp.com/";
 static NSString* const kLocations = @"locations";
 static NSString* const kFiles = @"files";
